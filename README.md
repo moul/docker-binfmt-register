@@ -1,4 +1,7 @@
 # docker-binfmt-register
+
+[![GuardRails badge](https://badges.production.guardrails.io/moul/docker-binfmt-register.svg)](https://www.guardrails.io)
+
 :whale: binfmt-support register in Docker, works with boot2docker to run armhf images
 
 Registers `binfmt-support` in Docker host kernel (works with boot2docker)
